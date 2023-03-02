@@ -3,7 +3,7 @@ import random
 import math
 
 from pygame import mixer
-# Intialize the pygame
+
 pygame.init()
 
 # create the screen
